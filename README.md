@@ -1,4 +1,10 @@
-# ExerciseSaas
+## Welcome to the Exercise using Software as a Service: Google Cloud Vision API
 
-app -link to deployed application - https://projectgae-309904.uc.r.appspot.com
+* [Application](https://github.com/AmiBhadani/ExerciseSaas/wiki/Application)
+
+* [Demonstration](https://github.com/AmiBhadani/ExerciseSaas/wiki/Demonstration)
+
+* [Explanation](https://github.com/AmiBhadani/ExerciseSaas/wiki/Explanation)
+
+* [State of system](https://github.com/AmiBhadani/ExerciseSaas/wiki/State-of-system)
 
